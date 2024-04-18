@@ -1,0 +1,7 @@
+react
+node
+react-lucid
+react-slick
+slick-carousel
+framer-motion
+react-icons
